@@ -104,7 +104,7 @@ export default function Home() {
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
       {
-        title: "信仰、希望、爱",
+        title: "行走的花",
         url: "https://neu19.learnwithgpt.space/",
         description: " Access to GPT-4o\nrate limit :80 messages /3 hours",
       },
